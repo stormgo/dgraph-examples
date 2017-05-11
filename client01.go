@@ -1,3 +1,8 @@
+// This example comes from here:
+//
+// https://github.com/dgraph-io/dgraph/blob/master/wiki/content/clients/index.md
+//
+
 package main
 
 import (
